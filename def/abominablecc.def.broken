@@ -1,6 +1,0 @@
-comicname The Abominable Charles Cristopher
-starturl http://abominable.cc/post/44164796353/episode-one
-nextregex <div class="photo-btn-next"><a href="([^"]*?)">&gt;</a></div>
-imageregex <a rel="single" class="pirobox" href="[^"]*?"><img src="([^"]*?)" alt="[^"]*?"/></a>
-autonumber 1
-

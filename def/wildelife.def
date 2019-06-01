@@ -1,5 +1,0 @@
-comicname Wilde Lyfe
-starturl http://www.wildelifecomic.com/comic/1
-nextregex <a href="([^"]*?)" class="next" rel="next">
-imageregex <img title="[^"]*?" src="([^"]*?)" id="cc-comic" border="0" />
-autonumber 1
